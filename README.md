@@ -4,7 +4,7 @@
   <img src="https://github.com/user-attachments/assets/ecdda772-3cf4-469c-96f5-058510762340" alt="Capture-removebg-preview" width="300"/>
 </p>
 <p align="center">
-  <a href="(https://www.figma.com/proto/4wHIdMKB3vanO1QnKnaveu/Roommate-Finder?node-id=21-315&starting-point-node-id=1%3A2&t=bzKblPuT8zZhWWdV-1)" target="_blank">Click here to preview the complete prototype of the application</a>
+  <a href="https://www.figma.com/proto/4wHIdMKB3vanO1QnKnaveu/Roommate-Finder?node-id=21-315&starting-point-node-id=1%3A2&t=bzKblPuT8zZhWWdV-1)" target="_blank">Click here to preview the complete prototype of the application</a>
 </p>
 
 
