@@ -1,6 +1,10 @@
 # Roommate Finder Application
 
+ ![Capture-removebg-preview](https://github.com/user-attachments/assets/ecdda772-3cf4-469c-96f5-058510762340)
+
+
 ## Overview
+
 
 The Roommate Finder Application is a mobile-based application designed to assist bachelors in finding rooms or roommates. The app addresses the common struggle of finding suitable accommodation by providing a user-friendly platform where users can search for available rooms or roommates based on their preferences.
 
